@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="ejercisio 28 y 37/ejercisio 28 y 37.csproj" Id="cd1bed13-2285-4b68-83ec-cab1d6fe026c" />
+  <Folder Name="/NewFolder1/">
+    <Project Path="ejercicio 37/ejercicio 37.csproj" Id="008deda3-ddc2-44d9-8bc4-71252c36bbe9" />
+  </Folder>
+  <Project Path="ejercisio 28 y 37/ejercicio 28 y 37.csproj" Id="cd1bed13-2285-4b68-83ec-cab1d6fe026c" />
 </Solution>
